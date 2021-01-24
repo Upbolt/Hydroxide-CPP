@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/633472429917995038/722143730500501534/Hydroxide_Logo.png"/>
+</p>
+
 # Hydroxide++
 Penetration testing tool for games developed on the Roblox game engine. (but this time, written in C++)
 
