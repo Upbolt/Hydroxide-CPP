@@ -4,6 +4,7 @@
 
 # Hydroxide++
 Penetration testing tool for games developed on the Roblox game engine. (but this time, written in C++)
+*view the original version of Hydroxide (written in Lua) here: https://github.com/Upbolt/Hydroxide*
 
 ## Why?
 Roblox has abysmal UI components when it comes to performance, making it pretty unbearable to visualize large sets of data. Why not take matters into our own hands and use something more performant?
